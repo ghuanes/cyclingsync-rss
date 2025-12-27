@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wielernieuws Dagelijks Overzicht</title>
+    <link>https://wielernieuws.example.com</link>
+    <description>Dagelijkse samenvatting van het belangrijkste wielernieuws uit Nederland en België</description>
+    <language>nl</language>
+    <lastBuildDate>Sat, 27 Dec 2025 12:25:00 +0100</lastBuildDate>
+    
+    <item>
+      <title>Wielernieuws Overzicht - 27 december 2025</title>
+      <link>https://wielernieuws.example.com/2025-12-27</link>
+      <guid isPermaLink="false">wielernieuws-2025-12-27</guid>
+      <pubDate>Sat, 27 Dec 2025 12:25:00 +0100</pubDate>
+      <description><![CDATA[
+<h2>🏆 Veldrijden: Van der Poel & Brand blijven domineren</h2>
+<p><strong>Mathieu van der Poel</strong> heeft vrijdag in Gavere zijn vijfde veldrit op rij gewonnen. De wereldkampioen liet lang Thibau Nys het werk doen, maar sloeg in de slotrondes genadeloos toe.</p>
+<p>Nys genoot van het duel: "Ik kreeg hem niet op z'n limiet, maar had hem zonder een foutje ook niet kunnen volgen."</p>
+<p><strong>Lucinda Brand</strong> boekte bij de vrouwen haar tiende overwinning op rij. Puck Pieterse eindigde op het podium.</p>
+
+<h2>📅 Vandaag: Wereldbeker Dendermonde</h2>
+<p>Wout van Aert krijgt een gouden kans tegen Pim Del Grosso - zonder Van der Poel aan de start.</p>
+
+<h2>🔄 Transfers</h2>
+<ul>
+<li><strong>Oscar Onley</strong> verruilt Picnic PostNL voor INEOS Grenadiers</li>
+<li><strong>Clément Venturini</strong> tekent bij Unibet Rose Rockets</li>
+<li><strong>Joris Nieuwenhuis</strong> pauzeert vanwege knieproblemen</li>
+</ul>
+
+<h2>💬 Interviews</h2>
+<p><strong>Thymen Arensman:</strong> "Mooiste jaar uit mijn leven, maar niet door Tour-zeges"</p>
+<p><strong>Tim Heemskerk</strong> over Vingegaard: "Hij blijft die ingetogen persoon"</p>
+
+<h2>📰 Overig</h2>
+<ul>
+<li>Evenepoel vindt Ronde van Vlaanderen te groot risico</li>
+<li>Girostart Bulgarije kampt met problemen</li>
+<li>Red Bull-BORA-hansgrohe wijzigt staf</li>
+</ul>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
