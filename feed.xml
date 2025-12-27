@@ -2,14 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wielernieuws Dagelijks Overzicht</title>
-    <link>https://wielernieuws.example.com</link>
+    <link>https://cyclingsync.netlify.app</link>
     <description>Dagelijkse samenvatting van het belangrijkste wielernieuws uit Nederland en België</description>
     <language>nl</language>
-    <lastBuildDate>Sat, 27 Dec 2025 12:25:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 12:55:19 +0100</lastBuildDate>
+    
     
     <item>
+      <title>Wielernieuws Update - 27 december 2025</title>
+      <link>https://cyclingsync.netlify.app/2025-12-27</link>
+      <guid isPermaLink="false">wielernieuws-2025-12-27-update</guid>
+      <pubDate>Sat, 27 Dec 2025 12:55:19 +0100</pubDate>
+      <description><![CDATA[
+<h2>🏆 Veldrijden: Van der Poel blijft winnen en verdienen</h2>
+<p><strong>Mathieu van der Poel</strong> heeft vrijdag in Gavere zijn vijfde veldrit van het seizoen gewonnen na een spannend duel met Thibau Nys. Van der Poel liet Nys lang het werk doen, maar sloeg in de slotrondes genadeloos toe.</p>
+<p>🎯 <strong>Verdiencijfers:</strong> Na slechts vijf wedstrijden is Van der Poel al bijna de grootverdiener van het veldritseizoen. Hij kwam één punt tekort voor de leiding in het Wereldbeker-klassement.</p>
+<p>Thibau Nys genoot van het duel: "Ik kreeg hem niet op z'n limiet. Had hem zonder foutje ook niet kunnen volgen."</p>
+<p><strong>Lucinda Brand</strong> heerste bij de vrouwen ook in Gavere en boekte haar tiende veldritzege op rij. Puck Pieterse stond op het podium.</p>
+
+<h2>📅 Vandaag: Wereldbeker Dendermonde (vanaf 13:20)</h2>
+<p><strong>Wout van Aert</strong> krijgt vandaag een gouden kans tegen Pim Del Grosso in Dendermonde. Van der Poel start niet.</p>
+<p>Voorbeschouwing: Dit is dé kans voor Van Aert om zijn eerste Wereldbekerzege van het seizoen te pakken.</p>
+
+<h2>🔄 Transfers & Nieuws</h2>
+<h3>Transfers</h3>
+<ul>
+<li><strong>Oscar Onley</strong> (Tour-revelatie) verruilt Picnic PostNL voor INEOS Grenadiers</li>
+<li><strong>Clément Venturini</strong> vertelt waarom hij eerst bedankte voor Unibet Rose Rockets: "Zware tijd meegemaakt"</li>
+<li><strong>Joris Nieuwenhuis</strong> zet crossseizoen voorlopig op pauze door knieproblemen</li>
+</ul>
+
+<h3>Ploegnieuws</h3>
+<ul>
+<li><strong>Red Bull-BORA-hansgrohe:</strong> Stafwissel moet voorjaarskern nu wél succes brengen (Sven Vanthourenhout)</li>
+<li><strong>Picnic PostNL</strong> ziet geen heil in opvolger voor Oscar Onley</li>
+</ul>
+
+<h2>💬 Interviews</h2>
+<p><strong>Thymen Arensman:</strong> "Mooiste jaar uit mijn leven, maar niet door Tour-zeges"</p>
+<ul>
+<li>Arensman kijkt terug op een emotioneel jaar waarin hij twee Tour-etappes won</li>
+<li>"Het echte verhaal zit in de regenritten, niet in de Tour-zeges"</li>
+</ul>
+
+<p><strong>Tim Heemskerk</strong> (trainer Vingegaard): "Hij blijft die ingetogen persoon en dat gaat niet veranderen"</p>
+<p><strong>Laura Verdonschot:</strong> "Ik wilde mezelf dit niet blijven aandoen" - blijft bij haar afscheid staan</p>
+<p><strong>Mick en Tim van Dijke:</strong> "Soms rijden we in elkaars vaarwater" - de tweelingbroers weer vaker samen op pad</p>
+
+<h2>📰 Overig Nieuws</h2>
+<ul>
+<li><strong>Remco Evenepoel</strong> vindt deelname Ronde van Vlaanderen te groot risico</li>
+<li><strong>Girostart Bulgarije</strong> geteisterd door gesteggel over reiskosten en politieke onrust</li>
+<li><strong>Noord-Brabant</strong> investeert in doorfietsroute langs A50 tussen Eindhoven en Veghel</li>
+<li><strong>WK-deelname Van Aert:</strong> Belgische bondscoach verwacht over twee weken nieuws</li>
+</ul>
+
+<h2>🗳️ Verkiezing</h2>
+<p>Wat was het beste commentaarduo van 2025? <strong>Je kan nu stemmen!</strong></p>
+
+<p><em>Bron: WielerFlits, NU.nl, diverse wielermedia</em></p>
+      ]]></description>
+    </item>
+<item>
       <title>Wielernieuws Overzicht - 27 december 2025</title>
-      <link>https://wielernieuws.example.com/2025-12-27</link>
+      <link>https://cyclingsync.netlify.app/2025-12-27</link>
       <guid isPermaLink="false">wielernieuws-2025-12-27</guid>
       <pubDate>Sat, 27 Dec 2025 12:25:00 +0100</pubDate>
       <description><![CDATA[
